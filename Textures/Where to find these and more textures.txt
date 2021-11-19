@@ -1,0 +1,3 @@
+Textures included in this sample are from the libraries of:
+- PolyHaven.com - Free resorces, public domain.
+- Poliigon.com - Paid library, but provides some resources for free (like the smudges texture included here).
